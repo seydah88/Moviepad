@@ -16,12 +16,13 @@ I wanted to create a keyboard that can be used for controls when you're watching
 - 6x M3x16 Bolt
 
 ## CAD Model
-<img width="697" height="499" alt="image" src="https://github.com/user-attachments/assets/f6c6d365-d1f9-4bf5-bece-eb4747c7a6bc" />
+<img width="697" height="490" alt="image" src="https://github.com/user-attachments/assets/f6c6d365-d1f9-4bf5-bece-eb4747c7a6bc" />
 <img width="693" height="505" alt="image" src="https://github.com/user-attachments/assets/320cc115-0541-48df-a65b-b723f1d3a01c" />
 
 ## Schematic
 <img width="679" height="425" alt="image" src="https://github.com/user-attachments/assets/a4347341-da24-48bf-84f1-f84ce331b9f5" />
 
 ## PCB
-<img width="679" height="425" alt="image" src="https://github.com/user-attachments/assets/bc6ed9db-967f-457f-948c-e1696a96d5d6" />
+<img width="679" height="425" alt="image" src="https://github.com/user-attachments/assets/6e160457-d1a1-4912-bed9-5ce731e87db2" />
+
 
