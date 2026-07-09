@@ -23,6 +23,7 @@ I wanted to create a keyboard that can be used for controls when you're watching
 <img width="679" height="425" alt="image" src="https://github.com/user-attachments/assets/a4347341-da24-48bf-84f1-f84ce331b9f5" />
 
 ## PCB
-<img width="679" height="425" alt="image" src="https://github.com/user-attachments/assets/6e160457-d1a1-4912-bed9-5ce731e87db2" />
+<img width="278" height="377" alt="Screenshot 2026-06-20 at 9 58 17 PM" src="https://github.com/user-attachments/assets/acb35651-98dd-4150-8f87-058e88870831" />
+
 
 
